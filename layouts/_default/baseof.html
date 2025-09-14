@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>{{ block "title" . }}{{ .Title }}{{ end }}</title>
+</head>
+<body>
+  <header>
+    <h1><a href="{{ "/" | relURL }}">Ciaran - poet</a></h1>
+  </header>
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <footer>
+    <p>© 2025 Ciaran</p>
+  </footer>
+</body>
+</html>
