@@ -1,4 +1,3 @@
 baseURL = "https://jfriseley.github.io/ciarans-poetry/"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-them = "poesy"
+title = 'Ciaran's poetry'
