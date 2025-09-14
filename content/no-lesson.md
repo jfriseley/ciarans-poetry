@@ -16,3 +16,4 @@ How dare you deny the ache you feel in your heart. It's not disappointment or gr
 
 There is no lesson in desiring to be seen, no substitute for being known. The lack of your other half stings as much now as it did before; personal growth does not dull it, though I hope it would make you more patient. 
 
+Someday you may have the ferocity to choose solitude over love with contraindications. But please do not try to outgrow it.
